@@ -1,4 +1,4 @@
-<?php namespace App\Http\Requests;
+<?php namespace HackLaravel\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
 

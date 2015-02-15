@@ -1,6 +1,6 @@
-<?php namespace App\Services;
+<?php namespace HackLaravel\Services;
 
-use App\User;
+use HackLaravel\User;
 use Validator;
 use Illuminate\Contracts\Auth\Registrar as RegistrarContract;
 

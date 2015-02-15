@@ -1,4 +1,4 @@
-<?php namespace App\Commands;
+<?php namespace HackLaravel\Commands;
 
 abstract class Command {
 
